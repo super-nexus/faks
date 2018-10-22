@@ -22,7 +22,7 @@ public class CollatzII{
 
     }
 
-    static int collatzLength(int givenNum){
+    private static int collatzLength(int givenNum){
 
         int counter = 1;
 
