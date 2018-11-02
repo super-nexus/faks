@@ -104,7 +104,7 @@ else if (command == 'acp') {
     var path = argv.path
     var addToIgnore = false;
 
-    if(fs.exists(path + ignoredFiles[0])){
+    if(fs.exists(path + ignoredFiles[1])){
         addToIgnore = true;
     }
 

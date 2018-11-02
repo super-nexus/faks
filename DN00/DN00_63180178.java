@@ -11,8 +11,9 @@ public class DN00_63180178{
         int candyPerPerson = numberOfCandy / numberOfPeople;
 
         System.out.println(candyPerPerson);
-        System.out.println(numberOfCandy - candyPerPerson);
+        System.out.println(numberOfCandy - (candyPerPerson * numberOfPeople));
 
+        sc.close();
     }
 
 }
