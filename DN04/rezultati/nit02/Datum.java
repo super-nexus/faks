@@ -1,3 +1,4 @@
+
 //63180178
 
 public class Datum{
@@ -20,6 +21,27 @@ public class Datum{
 
     public int vrniLeto(){
         return this.leto;
+    }
+
+    public boolean isYoungerThan(Datum datum){
+
+        if(leto > datum.vrniLeto()){
+            return true;
+        }
+
+        if(datum.vrniLeto() == leto){
+
+            if(mesec > datum.vrniMesec()){
+                return true;
+            }
+            else if(mesec == datum.vrniMesec()){
+                if(dan > datum.vrniDan()){
+                    return true;
+                }
+            }
+
+        }
+        return false;
     }
 
     public String toString(){
