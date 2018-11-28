@@ -1,6 +1,12 @@
 package-lock.json
 p1_vaje02.zip
 p1_vaje03.zip
+<<<<<<< HEAD
+tj.exe
+DN01/DN01_javniTesti
+DN00/DN00_javniTesti
+=======
 p1_vaje03/as2client.jar
 p1_vaje03/tj.exe
 p1_vaje03/.vscode/
+>>>>>>> c27c508ed787eef9e1855a3f30353f9bdd7dfd5b
