@@ -28,7 +28,7 @@ public class DN02_63180178{
 
         }
 
-
+        sc.close();
     }
 
     private static void returnLastElement(Scanner scanner){
@@ -122,7 +122,7 @@ public class DN02_63180178{
                 if(currentNumber != previousNumber){
                     differenceCounter++;
                 }
-                counter++;
+              //  counter++;
             }
             else{
                 if(currentHighest < differenceCounter){
