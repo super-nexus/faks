@@ -1,4 +1,3 @@
-
 //63180178
 
 public class Datum{
@@ -24,6 +23,7 @@ public class Datum{
     }
 
     public boolean isYoungerThan(Datum datum){
+
 
         if(leto > datum.vrniLeto()){
             return true;
@@ -60,7 +60,7 @@ public class Datum{
     }
 
     public boolean jeEnakKot(Datum datum){
-        return this.equals(datum);
+        return vrniDan() == datum.vrniDan() && vrniMesec() == datum.vrniMesec() && vrniLeto() == datum.vrniLeto();
     }
 
     

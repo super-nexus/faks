@@ -1,14 +1,15 @@
-
 //63180178
-import java.util.Arrays;
 
 public class Bankomat {
 
     int[] steviloBankovcev = { 0, 0, 0 };
     int[] holderBankovcev = { 0, 0, 0 };
     int dolzinaBankovcev = 3;
-    private static int najDvig = 0;
-    private static Datum najDatum = new Datum(1,1,1);
+    private int najDvig = 0;
+    private Datum najDatum = null;
+    private Datum currentDatum = new Datum(1,1,1);
+    private int currentSum = 0;
+    private int highestSum = 0;
 
     public Bankomat() {
     }
@@ -60,16 +61,47 @@ public class Bankomat {
         else {
             if (steviloBankovcev[2] >= dvig) {
                 steviloBankovcev[2] = steviloBankovcev[2] - dvig;
-                return true;
             } else {
                 return false;
             }
         }
 
-        if (dvig >= najDvig && datum.isYoungerThan(najDatum)) {
-            najDvig = dvig;
+       // System.out.printf("Dvig: %d , datum: %s\n", dvigHolder, datum.toString());
+
+        // if (dvigHolder >= najDvig && datum.isYoungerThan(najDatum)) {
+        //      najDvig = dvigHolder;
+        //      najDatum = datum;
+        // }
+
+        if(dvigHolder > najDvig){
+            najDvig = dvigHolder;
+        }
+
+        if(najDatum == null){
             najDatum = datum;
         }
+
+        if(datum.jeEnakKot(currentDatum)){
+            currentSum += dvigHolder;
+            if(currentSum > highestSum){
+                najDatum = datum;
+            }
+        }
+        else{
+            if(highestSum < currentSum){
+                highestSum = currentSum;
+                najDatum = currentDatum;
+                currentSum = dvigHolder;
+                currentDatum = datum;
+            }
+            else{
+                currentDatum = datum;
+                currentSum = dvigHolder;
+            }
+        }
+      
+     //   System.out.printf("Current sum: %d Highest sum: %d Current Datum: %s NajDatum: %s\n", currentSum, highestSum, currentDatum.toString(), najDatum.toString());
+
         return true;
     }
 
