@@ -22,6 +22,28 @@ public class Datum{
         return this.leto;
     }
 
+    public boolean isYoungerThan(Datum datum){
+
+
+        if(leto > datum.vrniLeto()){
+            return true;
+        }
+
+        if(datum.vrniLeto() == leto){
+
+            if(mesec > datum.vrniMesec()){
+                return true;
+            }
+            else if(mesec == datum.vrniMesec()){
+                if(dan > datum.vrniDan()){
+                    return true;
+                }
+            }
+
+        }
+        return false;
+    }
+
     public String toString(){
 
         String mesec = Integer.toString(this.mesec);
@@ -38,7 +60,7 @@ public class Datum{
     }
 
     public boolean jeEnakKot(Datum datum){
-        return this.equals(datum);
+        return vrniDan() == datum.vrniDan() && vrniMesec() == datum.vrniMesec() && vrniLeto() == datum.vrniLeto();
     }
 
     
