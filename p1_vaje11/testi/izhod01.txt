@@ -1,0 +1,6 @@
+kvadrat [a = 10] | p = 100, o = 40
+krog [r = 50] | p = 7854, o = 314
+pravokotnik [a = 20, b = 30] | p = 600, o = 100
+kvadrat [a = 60] | p = 3600, o = 240
+pravokotnik [a = 10, b = 50] | p = 500, o = 120
+krog [r = 40] | p = 5027, o = 251

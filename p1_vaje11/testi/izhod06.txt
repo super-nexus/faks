@@ -1,0 +1,38 @@
+pravokotnik [a = 647, b = 821] | p = 531187, o = 2936
+kvadrat [a = 362] | p = 131044, o = 1448
+kvadrat [a = 848] | p = 719104, o = 3392
+kvadrat [a = 778] | p = 605284, o = 3112
+kvadrat [a = 490] | p = 240100, o = 1960
+pravokotnik [a = 241, b = 986] | p = 237626, o = 2454
+kvadrat [a = 493] | p = 243049, o = 1972
+pravokotnik [a = 628, b = 966] | p = 606648, o = 3188
+pravokotnik [a = 623, b = 733] | p = 456659, o = 2712
+kvadrat [a = 792] | p = 627264, o = 3168
+kvadrat [a = 737] | p = 543169, o = 2948
+pravokotnik [a = 973, b = 931] | p = 905863, o = 3808
+pravokotnik [a = 360, b = 148] | p = 53280, o = 1016
+pravokotnik [a = 236, b = 616] | p = 145376, o = 1704
+kvadrat [a = 197] | p = 38809, o = 788
+pravokotnik [a = 490, b = 278] | p = 136220, o = 1536
+pravokotnik [a = 438, b = 706] | p = 309228, o = 2288
+kvadrat [a = 210] | p = 44100, o = 840
+pravokotnik [a = 668, b = 34] | p = 22712, o = 1404
+kvadrat [a = 536] | p = 287296, o = 2144
+pravokotnik [a = 870, b = 434] | p = 377580, o = 2608
+kvadrat [a = 903] | p = 815409, o = 3612
+pravokotnik [a = 725, b = 596] | p = 432100, o = 2642
+pravokotnik [a = 890, b = 232] | p = 206480, o = 2244
+kvadrat [a = 784] | p = 614656, o = 3136
+kvadrat [a = 963] | p = 927369, o = 3852
+pravokotnik [a = 974, b = 478] | p = 465572, o = 2904
+pravokotnik [a = 899, b = 291] | p = 261609, o = 2380
+kvadrat [a = 282] | p = 79524, o = 1128
+pravokotnik [a = 108, b = 228] | p = 24624, o = 672
+kvadrat [a = 369] | p = 136161, o = 1476
+pravokotnik [a = 797, b = 81] | p = 64557, o = 1756
+pravokotnik [a = 339, b = 236] | p = 80004, o = 1150
+pravokotnik [a = 113, b = 534] | p = 60342, o = 1294
+pravokotnik [a = 240, b = 359] | p = 86160, o = 1198
+pravokotnik [a = 479, b = 706] | p = 338174, o = 2370
+kvadrat [a = 763] | p = 582169, o = 3052
+kvadrat [a = 634] | p = 401956, o = 2536

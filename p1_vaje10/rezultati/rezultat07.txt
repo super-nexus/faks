@@ -1,0 +1,25 @@
+Anka Avbelj: 5
+Branko Bizjak: 5
+Cvetka Cajzek: 1
+Drago Dolenc: 5
+Ema Ertl: 2
+Franci Frelih: 0
+Gregor Golob: 2
+Helga Hrvatin: 5
+Iva Ivanc: 5
+Janko Jereb: 1
+Katja Kotnik: 2
+Lidija Lebar: 5
+
+0 1 0 1 0 0 0 1 1 0 0 1 
+1 0 0 1 0 0 0 1 1 0 0 1 
+0 0 0 0 0 0 0 0 0 1 0 0 
+1 1 0 0 0 0 0 1 1 0 0 1 
+0 0 0 0 0 0 1 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 1 0 
+1 1 0 1 0 0 0 0 1 0 0 1 
+1 1 0 1 0 0 0 1 0 0 0 1 
+0 0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 1 0 0 0 0 0 
+1 1 0 1 0 0 0 1 1 0 0 0 
