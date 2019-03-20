@@ -1,0 +1,58 @@
+7 | 3CXRTFS
+21 | 
+24 | mft
+27 | 
+32 | wYiMi
+37 | 
+42 | 3CXRTFS
+50 | 3CXRTFS/tv5rgt9t
+58 | hjnb/3CXRTFS/tv5rgt9t
+72 | UwUD9n2N/hjnb/3CXRTFS/tv5rgt9t
+97 | hjnb/3CXRTFS/tv5rgt9t
+113 | hjnb/3CXRTFS
+116 | hjnb/3CXRTFS/qKV
+124 | hjnb/3CXRTFS/UKBzY9/qKV
+139 | hjnb/3CXRTFS/qKV
+147 | hjnb/3CXRTFS/UKBzY9/qKV
+159 | hjnb/3CXRTFS/qKV
+165 | hjnb/3CXRTFS
+173 | hjnb/3CXRTFS/jWOlVVn6
+181 | hjnb/3CXRTFS
+192 | 3CXRTFS
+197 | hjnb/3CXRTFS
+208 | 3CXRTFS
+219 | 3CXRTFS
+222 | Z/3CXRTFS
+227 | 3CXRTFS
+231 | 3CXRTFS/0UT_
+235 | 3CXRTFS
+239 | 3CXRTFS/0UT_
+253 | 
+260 | fYTm2Zd
+274 | 
+280 | cjywdP
+286 | 
+292 | cjywdP
+300 | tOAZsWGB
+308 | cjywdP
+316 | tOAZsWGB
+324 | cjywdP
+332 | tOAZsWGB
+340 | cjywdP
+352 | 
+357 | cjywdP
+362 | cjywdP/916ix
+364 | cjywdP/916ix/Sx
+377 | cjywdP/Sx
+381 | cjywdP/NH/Sx
+388 | cjywdP/Sx
+392 | cjywdP/NH/Sx
+396 | cjywdP
+Exception in thread "main" java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:372)
+	at java.base/java.util.ArrayList.get(ArrayList.java:458)
+	at DN09_63180178.execRemove(DN09_63180178.java:159)
+	at DN09_63180178.main(DN09_63180178.java:80)

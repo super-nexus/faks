@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec752f71-71a8-4cb9-89b9-41d4a05dbd41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DN02/DN02_63180178.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DN02/DN02_63180178.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/DN02_63180178.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DN02/DN02_63180178.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/prikaz.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat03.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat06.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat07.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat08.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat09.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DN02/rezultati/rezultat11.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/prikaz.htm" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/prikaz.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat03.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat05.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat06.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat07.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat09.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rezultati/rezultat11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rezultati/rezultat11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DN09/Editor.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +14,10 @@
     <session id="1789750808">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -69,24 +45,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Koledar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Koledar.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -109,7 +73,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1404" />
     <option name="height" value="1047" />
@@ -184,27 +148,24 @@
       <option name="presentableId" value="Default" />
       <updated>1542992181540</updated>
       <workItem from="1542992184204" duration="692000" />
+      <workItem from="1547415547844" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="692000" />
+    <option name="totallyTimeSpent" value="727000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1404" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13513513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31215772" />
@@ -212,15 +173,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,13 +196,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Koledar.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Koledar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -244,6 +203,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Koledar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
